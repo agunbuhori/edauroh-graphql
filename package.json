@@ -24,7 +24,7 @@
     "@keystonejs/keystone": "^5.3.0",
     "cross-env": "^5.2.0",
     "express": "^4.17.1",
-    "nuxt": "^2.9.2"
+    "nuxt": "^3.4.3"
   },
   "devDependencies": {
     "core-js": "2"
